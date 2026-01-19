@@ -39,9 +39,9 @@ Me considero una persona:
 
 En este perfil iré subiendo proyectos relacionados con:
 - Ejercicios y prácticas de DAW  
-- Aplicaciones Java  
-- Bases de datos y consultas SQL  
-- Proyectos académicos y personales  
+- Aplicaciones Web
+- Bases de datos
+- Proyectos académicos y personales
 
 👉 *Work in progress… siempre aprendiendo*
 
