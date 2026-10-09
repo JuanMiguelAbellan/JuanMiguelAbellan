@@ -23,9 +23,12 @@ Me considero una persona:
 **Lenguajes y tecnologías:**
 - Java  
 - SQL
+- NoSql
 - JavaScript
 - TypeScript
-- HTML & CSS 
+- HTML & CSS
+- PHP
+- Python
 
 **Conceptos:**
 - Programación Orientada a Objetos (POO)  
