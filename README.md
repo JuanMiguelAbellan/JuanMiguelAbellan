@@ -4,7 +4,7 @@
 
 ### Desarrollador full-stack · IA aplicada
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F5A524&center=true&vCenter=true&width=560&lines=Construyo+productos+completos+de+punta+a+punta;LLMs+autoalojados%2C+RAG+y+embeddings;Si+no+se+mide%2C+no+s%C3%A9+si+funciona;Tests+que+fallan+antes+del+fix" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F5A524&center=true&vCenter=true&width=560&lines=Construyo+productos+completos+de+punta+a+punta;LLMs+autoalojados%2C+RAG+y+embeddings;Si+no+se+mide%2C+no+s%C3%A9+si+funciona;Tests+que+fallan+antes+del+fix" alt="Typing SVG" />
 
 <p>
   <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-F5A524?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
