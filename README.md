@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F5A524&center=true&vCenter=true&width=560&lines=Construyo+productos+completos+de+punta+a+punta;LLMs+autoalojados%2C+RAG+y+embeddings;Si+no+se+mide%2C+no+s%C3%A9+si+funciona;Tests+que+fallan+antes+del+fix" alt="Typing SVG" />
 
 <p>
-  <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-F5A524?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://jmabellan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F5A524?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/juan-miguel-abell%C3%A1n-piedrafita-b26a74425/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:wextren@gmail.com"><img src="https://img.shields.io/badge/Email-1f1f1f?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
